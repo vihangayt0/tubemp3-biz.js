@@ -1,0 +1,38 @@
+{
+  "name": "tubemp3-biz.js",
+  "version": "1.0.1",
+  "description": "Get Direct Down Link Of Yt songs/video From tubemp3.biz",
+  "main": "tubemp3-biz.js",
+  "scripts": {
+      "test": "node tubemp3-biz.js",
+      "start": "node tubemp3-biz.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vihangayt0/tubemp3-biz.js.git"
+  },
+  "keywords": [
+      "ytdl",
+      "youtube download",
+      "yt download",
+      "youtube scraper"
+  ],
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "fetch": "^1.1.0",
+    "node": "^17.5.0",
+    "node-fetch": "^2.6.1"
+  },
+  "author": "vihangayt0 <vihangamd1@gmail.com> (https://github.com/vihangayt0)",
+  "publishConfig": {
+      "registry": "https://npm.pkg.github.com"
+  },
+  "npm_publisher": "vihangayt",
+  "license": "ISC",
+  "bugs": {
+      "url": "https://github.com/vihangayt0/tubemp3-biz.js/issues"
+  },
+  "homepage": "https://github.com/vihangayt0/tubemp3-biz.js#readme"
+}
