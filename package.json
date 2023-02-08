@@ -26,9 +26,6 @@
     "node-fetch": "^2.6.1"
   },
   "author": "vihangayt0 <vihangamd1@gmail.com> (https://github.com/vihangayt0)",
-  "publishConfig": {
-      "registry": "https://npm.pkg.github.com"
-  },
   "npm_publisher": "vihangayt",
   "license": "ISC",
   "bugs": {
